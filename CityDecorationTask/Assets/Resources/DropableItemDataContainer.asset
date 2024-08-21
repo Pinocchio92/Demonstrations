@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b81372ddc63c0ba45a54a1d8295e64d2, type: 3}
+  m_Name: DropableItemDataContainer
+  m_EditorClassIdentifier: 
+  Data:
+  - Name: Appartment
+    DisplayName: Appartment
+    Type: 1
+    Sprite: {fileID: 21300000, guid: d03d0d98f2620394d8c771295ad65563, type: 3}
+    Prefab: {fileID: 100000, guid: 6aad3078276ab4d47916c4d88e1722cd, type: 3}
+  - Name: Pizza Shop
+    DisplayName: Pizza Shop
+    Type: 1
+    Sprite: {fileID: 21300000, guid: 22b3c472d89f4a44cb87e43f26311a4a, type: 3}
+    Prefab: {fileID: 100000, guid: 601b00ca0b9de0247beae089ec7e640f, type: 3}
+  - Name: Book Store
+    DisplayName: Book Store
+    Type: 1
+    Sprite: {fileID: 21300000, guid: 3737717bd4bac4749b353a7c6859f404, type: 3}
+    Prefab: {fileID: 100000, guid: ec26b982f5502de469093462f7c99703, type: 3}
+  - Name: Food Truck
+    DisplayName: Food Truck
+    Type: 5
+    Sprite: {fileID: 21300000, guid: 50ec9f1a112cb4e489406f4028fa893b, type: 3}
+    Prefab: {fileID: 100008, guid: ca6a542169d8e474aa2c2cb47423839a, type: 3}
+  - Name: Pizza delivery
+    DisplayName: Pizza delivery
+    Type: 5
+    Sprite: {fileID: 21300000, guid: 1d4466a271651d745a051160c939b5c9, type: 3}
+    Prefab: {fileID: 100008, guid: ca6a542169d8e474aa2c2cb47423839a, type: 3}
+  - Name: Treasure Chest
+    DisplayName: Treasure Chest
+    Type: 4
+    Sprite: {fileID: 21300000, guid: 8c39a7b43db1d154e9783d89b25fa813, type: 3}
+    Prefab: {fileID: 8165991622789417681, guid: 16c532acf2d1c6a45aa127f8da5f5a41, type: 3}
+  - Name: Road
+    DisplayName: Road
+    Type: 3
+    Sprite: {fileID: 21300000, guid: 223c39fefb9501c419d29e965371aad7, type: 3}
+    Prefab: {fileID: 5618651225595691692, guid: 08912d9356c2e714e8fb7ceec251fb00, type: 3}
+  - Name: Tree
+    DisplayName: Pine
+    Type: 2
+    Sprite: {fileID: 21300000, guid: f93a8ceb103d34c448f1632abe4b6125, type: 3}
+    Prefab: {fileID: 3230214607216132425, guid: 3a18a0b910d7d9b479753e4fbdfbd23f, type: 3}
+  - Name: Rock
+    DisplayName: Rock
+    Type: 2
+    Sprite: {fileID: 21300000, guid: beb718b62b6674f4db729941dc5f3a9e, type: 3}
+    Prefab: {fileID: 3480334628770313487, guid: d273785882901564c8608691c70e3a72, type: 3}
+  - Name: Dumpster
+    DisplayName: Dumpster
+    Type: 6
+    Sprite: {fileID: 21300000, guid: 4e46d4fdc56ec0847be5a38114858652, type: 3}
+    Prefab: {fileID: 100000, guid: 4e3b8318a9112f24d84095e1a4d96ae0, type: 3}
+  - Name: Bin
+    DisplayName: Bin
+    Type: 6
+    Sprite: {fileID: 21300000, guid: 6a0111f62294fc74cbbbab47e1b28d24, type: 3}
+    Prefab: {fileID: 100000, guid: b315fa776449eec44a8591af7353afe8, type: 3}
+  - Name: Bill Board
+    DisplayName: Bill Board
+    Type: 6
+    Sprite: {fileID: 21300000, guid: 751a794e0343a12419467f5b22594a52, type: 3}
+    Prefab: {fileID: 100000, guid: 8db24802b0170464c9267f3c45e6f7ea, type: 3}
